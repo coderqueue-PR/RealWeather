@@ -1,0 +1,17 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Creating a Weather Node js app",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js"
+},
+  "author": "Pranaya Rath",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
